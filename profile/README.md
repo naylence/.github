@@ -1,8 +1,3 @@
-<!-- <p align="center">
-  <!-- Optional: replace with your logo -->
-  <!-- <img src="https://raw.githubusercontent.com/naylence/BRAND_REPO/main/logo.svg" width="96" /> -->
-</p> -->
-
 <h1 align="center">Naylence</h1>
 
 <p align="center">
